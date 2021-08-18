@@ -14,5 +14,5 @@ active: true
 author: admin
 design:
   background:
-    image: website-photo.png
+    image: ""
 ---
